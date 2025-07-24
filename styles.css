@@ -1,0 +1,6 @@
+#box {
+    background-image: url("box.png");
+    width: 500px;
+    height: 200px;
+    position: relative;
+}
